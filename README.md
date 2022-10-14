@@ -26,16 +26,16 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=D8BFD8)
-![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logo=java&logoColor=white&color=D8BFD8)
-![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=D8BFD8)
-![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=D8BFD8)
-![Azure](https://img.shields.io/badge/Cloud-Azure-D8BFD8?style=flat&logo=microsoftazure&logoColor=white&color=D8BFD8)
-![MATLAB](https://img.shields.io/badge/Tools-MATLAB-D8BFD8?style=flat&logo=matlab&logoColor=white&color=D8BFD8)
-![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-D8BFD8?style=flat&logo=jupyter&logoColor=white&color=D8BFD8)
-![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8)
-![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-D8BFD8?style=flat&logo=adobephotoshop&logoColor=white&color=D8BFD8)
-![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-D8BFD8?style=flat&logo=adobeillustrator&logoColor=white&color=D8BFD8)
+![Python](https://img.shields.io/badge/Code-Python-red?style=flat&logo=python&logoColor=white&color=red)
+![Java](https://img.shields.io/badge/Code-Java-red?style=flat&logo=java&logoColor=white&color=red)
+![Html](https://img.shields.io/badge/Code-HTML-red?style=flat&logo=html5&logoColor=white&color=red)
+![CSS](https://img.shields.io/badge/Code-CSS-red?style=flat&logo=css3&logoColor=white&color=red)
+![Azure](https://img.shields.io/badge/Cloud-Azure-red?style=flat&logo=microsoftazure&logoColor=white&color=red)
+![MATLAB](https://img.shields.io/badge/Tools-MATLAB-red?style=flat&logo=matlab&logoColor=white&color=red)
+![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-red?style=flat&logo=jupyter&logoColor=white&color=red)
+![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-red?style=flat&logo=VisualStudioCode&logoColor=white&color=red)
+![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-red?style=flat&logo=adobephotoshop&logoColor=white&color=red)
+![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-red?style=flat&logo=adobeillustrator&logoColor=white&color=red)
 
 
 ## 📚 Latest Blog Posts
