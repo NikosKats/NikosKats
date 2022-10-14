@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @NikosKats
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 NikosKats/NikosKats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +20,7 @@ My name is Nikolaos and I am a Software Engineer at Okto. Here you will find a s
 ## 😊 About me:
 Nikolaos Katsilidis is a graduate Informations and Communications Systems Engineer from University of the Aegean., interested in Full Stack Web Development, DevOps, Algorithms, Data Structures, System Design, AI, IoT, Deep Learning, Computer Vision, and cloud technologies, as well as in applications of technology in healthcare and education. He is Software Engineer and [Beta Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/40727), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Nikolaos helps people expand their technical skills through organizing workshops and writes articles on his [blog](https://github.com/NikosKats).
 
+- 👀 I’m interested in ...
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Code-Python-red?style=flat&logo=python&logoColor=white&color=red)
@@ -37,6 +34,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 ![Adobe Photoshop](https://img.shields.io/badge/Tools-Adobe%20Photoshop-red?style=flat&logo=adobephotoshop&logoColor=white&color=red)
 ![Adobe Illustrator](https://img.shields.io/badge/Tools-Adobe%20Illustrator-red?style=flat&logo=adobeillustrator&logoColor=white&color=red)
 
+- 📫 How to reach me ...
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
@@ -44,6 +42,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 <!-- BLOGPOSTS:END -->
 
+- 💞️ I’m looking to collaborate on ...
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
@@ -51,7 +50,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 <!-- TALKS:END -->
 
-
+- 🌱 I’m currently learning ...
 ## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 
