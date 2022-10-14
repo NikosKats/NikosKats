@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋
 My name is Nikolaos and I am a Software Engineer at Okto. Here you will find a small sample of the projects I am working on!
 
-![Pronouns Badge](https://img.shields.io/badge/Pronouns-She/Her/Hers-D8BFD8?style=flat)
 
 
 ## 😊 About me:
