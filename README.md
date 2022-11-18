@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![Blog Badge](https://img.shields.io/badge/Nikos%20Katsilidis-Blog-orange)](https://nikoskats.github.io/)
 
 # Hi there 👋
-My name is Nikolaos and I am a Software Engineer at Okto. Here you will find a small sample of the projects I am working on!
+My name is Nikolaos and I am a Software Engineer at Netlink as well as a research assistant at CERTH-ITI. Here you will find a small sample of the projects I am working on!
 
 
 
