@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikosKats
+
 
 <!---
 NikosKats/NikosKats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,10 @@ My name is Nikolaos and I am a Software Engineer at Netlink as well as a researc
 
 
 
-## 😊 About me:
+## About me:
 Nikolaos Katsilidis is a graduate Informations and Communications Systems Engineer from University of the Aegean, interested in Deep Learning, Computer Vision, AI, Full Stack Web Development, DevOps, Algorithms, Data Structures, System Design and cloud technologies as well as in applications of technology in the retail and security sectors. He is Software Engineer, a research assistant at European Funded Projects and a [Beta Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/40727), developing multiple technological projects and presenting about Microsoft technologies in local meetups. Always passionate about teaching and discovering new things, Nikolaos helps people expand their technical skills through organizing workshops and writes articles on his [blog](https://nikoskats.github.io/).
 
-- 👀 I’m interested in ...
+- I’m interested in ...
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Code-Python-red?style=flat&logo=python&logoColor=white&color=red)
@@ -44,7 +44,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 <!-- BLOGPOSTS:END -->
 
-- 💞️ I’m looking to collaborate on ...
+- I’m looking to collaborate on ...
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
