@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/nikolaos-katsilidis)[![Blog Badge](https://img.shields.io/badge/Nikos%20Katsilidis-Blog-orange)](https://nikoskats.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/nikolaos-katsilidis) [![Blog Badge](https://img.shields.io/badge/Nikos%20Katsilidis-Blog-orange)](https://nikoskats.github.io/)
 
 # Hi there 👋
 My name is Nikolaos and I am a Software Engineer at Netlink as well as a research assistant at CERTH-ITI. Here you will find a small sample of the projects I am working on!
