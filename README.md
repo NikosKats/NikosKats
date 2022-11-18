@@ -38,7 +38,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
-- [test example](https://github.com/NikosKats)
+- [My Blog](https://nikoskats.github.io/)
 
 <!-- BLOGPOSTS:END -->
 
@@ -46,7 +46,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 ## 🎤 Latest Talks
 <!-- TALKS:START -->
-- [test example](https://github.com/NikosKats)
+- [My Blog](https://nikoskats.github.io/)
 
 <!-- TALKS:END -->
 
