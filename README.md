@@ -12,13 +12,15 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/nikolaos-katsilidis)
 
+[blog](https://nikoskats.github.io/)
+
 # Hi there 👋
 My name is Nikolaos and I am a Software Engineer at Okto. Here you will find a small sample of the projects I am working on!
 
 
 
 ## 😊 About me:
-Nikolaos Katsilidis is a graduate Informations and Communications Systems Engineer from University of the Aegean., interested in Full Stack Web Development, DevOps, Algorithms, Data Structures, System Design, AI, IoT, Deep Learning, Computer Vision, and cloud technologies, as well as in applications of technology in healthcare and education. He is Software Engineer and [Beta Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/40727), developing multiple technological projects and presenting about Microsoft technologies in local and global conferences. Always passionate about teaching and discovering new things, Nikolaos helps people expand their technical skills through organizing workshops and writes articles on his [blog](https://github.com/NikosKats).
+Nikolaos Katsilidis is a graduate Informations and Communications Systems Engineer from University of the Aegean, interested in Deep Learning, Computer Vision, AI, Full Stack Web Development, DevOps, Algorithms, Data Structures, System Design and cloud technologies as well as in applications of technology in the retail and security sectors. He is Software Engineer, a research assistant at European Funded Projects and a [Beta Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/en-US/profile/40727), developing multiple technological projects and presenting about Microsoft technologies in local meetups. Always passionate about teaching and discovering new things, Nikolaos helps people expand their technical skills through organizing workshops and writes articles on his [blog](https://nikoskats.github.io/).
 
 - 👀 I’m interested in ...
 
