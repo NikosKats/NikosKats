@@ -38,7 +38,7 @@ Nikolaos Katsilidis is a graduate Informations and Communications Systems Engine
 
 ## 📚 Latest Blog Posts
 <!-- BLOGPOSTS:START -->
-- [My Blog](https://nikoskats.github.io/)
+- [Neural Networks And Deep Learning](https://nikoskats.github.io/2022/12/20/Neural-Networks-and-Deep-Learning.html)
 
 <!-- BLOGPOSTS:END -->
 
